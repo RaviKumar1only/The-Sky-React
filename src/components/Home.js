@@ -26,7 +26,7 @@ const Home = () => {
             <nav className='w-11/12 flex justify-between items-center'>
                 <div className='flex items-center gap-3'>
                     <img src={logo} alt='logo' height={50} width={50}/>
-                    <div className='text-3xl font-bold bg-gradient-to-r from-blue-500 via-purple-400 to-pink-300 bg-clip-text text-transparent'>DSA2Web</div>
+                    <div className='text-3xl font-bold bg-gradient-to-r from-blue-500 via-purple-400 to-pink-300 bg-clip-text text-transparent'>RaviKumar1only</div>
                 </div>
                 <ul className='flex gap-12'>
                     <a href='#home' className='text-lg text-gray-100 hover:text-gray-300 transition-all duration-150 cursor-pointer'>Home</a>
@@ -156,7 +156,7 @@ const Home = () => {
                 <div className='flex flex-col gap-3'>
                     <a href='#home' className='flex gap-2 items-center'>
                         <img src={logo} alt='logo' height={50} width={50}/>
-                        <div className='text-4xl font-bold bg-gradient-to-r from-blue-500 via-purple-400 to-pink-300 bg-clip-text text-transparent'>DSA2Web</div>
+                        <div className='text-4xl font-bold bg-gradient-to-r from-blue-500 via-purple-400 to-pink-300 bg-clip-text text-transparent'>RaviKumar1only</div>
                     </a>
                     <p className='text-gray-200 text-sm'>The Ultimate Guide To Ace SDE Interviews</p>
                 </div>
@@ -178,32 +178,32 @@ const Home = () => {
                     <li className='text-gray-200 text-base'>GET IN TOUCH</li>
                     <li className='flex items-center gap-2 cursor-pointer hover:text-gray-300 transition-all duration-100'>
                         <IoMdMail className='mt-1 text-lg'/>
-                        <a href='mailto: dsa2web@gmail.com'>Support@DSA2Web.in</a>
+                        <a href='mailto: ravikumar1only@gmail.com'>Support@RaviKumar1only.com</a>
                     </li>
                     <li className='flex gap-4 items-center mt-1'>
-                        <a href='https://www.youtube.com/@dsa2web' target="_blank">
+                        <a href='https://www.youtube.com/@ravikumar1only' target="_blank">
                             <AiOutlineYoutube className='text-[28px] cursor-pointer hover:opacity-50 transition-all duration-150'/>
                         </a>
-                        <a href='https://www.github.com/mr-ravikumar' target="_blank">
+                        <a href='https://www.github.com/ravikumar1only' target="_blank">
                             <FaGithub className='text-[22px] cursor-pointer hover:opacity-50 transition-all duration-150'/>
                         </a>
-                        <a href='https://www.linkedin.com/in/mrravikumar' target="_blank">
+                        <a href='https://www.linkedin.com/in/ravikumar1only' target="_blank">
                             <FaLinkedin className='text-[22px] cursor-pointer hover:opacity-50 transition-all duration-150'/>
                         </a>
-                        <a href='https://www.twitter.com/dsa2web' target="_blank">
+                        <a href='https://www.twitter.com/ravikumar1only' target="_blank">
                             <FaTwitterSquare className='text-[22px] cursor-pointer hover:opacity-50 transition-all duration-150'/>
                         </a>
-                        <a href='https://www.instagram.com/dsa2web' target="_blank">
+                        <a href='https://www.instagram.com/ravikumar1only' target="_blank">
                             <BsInstagram className='text-[21px] cursor-pointer hover:opacity-50 transition-all duration-150'/>
                         </a>
-                        <a href='https://www.facebook.com/dsa2web' target="_blank">
+                        <a href='https://www.facebook.com/ravikumar1only' target="_blank">
                             <FaFacebook className='text-[22px] cursor-pointer hover:opacity-50 transition-all duration-150'/>
                         </a>
                     </li>
                 </ul>
             </div>
             <div className='flex justify-center items-center text-gray-100 text-sm'>
-                Copyright <FaRegCopyright className='text-sm mr-1 ml-1'/> 2025 Sorting DSA2Web Technologies Pvt Ltd. All Rights Reserved.
+                Copyright <FaRegCopyright className='text-sm mr-1 ml-1'/> 2025 Sorting ravikumar1only Technologies Pvt Ltd. All Rights Reserved.
             </div>
         </div>
     </div>
