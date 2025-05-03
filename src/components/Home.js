@@ -26,7 +26,7 @@ const Home = () => {
             <nav className='w-11/12 flex justify-between items-center'>
                 <div className='flex items-center gap-3'>
                     <img src={logo} alt='logo' height={50} width={50}/>
-                    <div className='text-3xl font-bold bg-gradient-to-r from-blue-500 via-purple-400 to-pink-300 bg-clip-text text-transparent'>RaviKumar1only</div>
+                    <div className='text-3xl font-bold bg-gradient-to-r from-blue-500 via-purple-400 to-pink-300 bg-clip-text text-transparent'>Ravi Kumar</div>
                 </div>
                 <ul className='flex gap-12'>
                     <a href='#home' className='text-lg text-gray-100 hover:text-gray-300 transition-all duration-150 cursor-pointer'>Home</a>
@@ -156,7 +156,7 @@ const Home = () => {
                 <div className='flex flex-col gap-3'>
                     <a href='#home' className='flex gap-2 items-center'>
                         <img src={logo} alt='logo' height={50} width={50}/>
-                        <div className='text-4xl font-bold bg-gradient-to-r from-blue-500 via-purple-400 to-pink-300 bg-clip-text text-transparent'>RaviKumar1only</div>
+                        <div className='text-4xl font-bold bg-gradient-to-r from-blue-500 via-purple-400 to-pink-300 bg-clip-text text-transparent'>Ravi Kumar</div>
                     </a>
                     <p className='text-gray-200 text-sm'>The Ultimate Guide To Ace SDE Interviews</p>
                 </div>
